@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**AlexCuencaM/AlexCuencaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Hi, I'm Front-End Developer but also I like Backend, I'm from Ecuador
+## 🛠 Skills
+- HTML, JS, CSS
+- React.js, Material-UI, Bootstrap, Redux
+- SASS
+- Django(MVT), Node.js, Express
+- Teamwork
+### 🌱 Learning
+- Typescript
+- GraphQL
+- English hehe
