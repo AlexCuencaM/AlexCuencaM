@@ -1,9 +1,11 @@
 ## 🚀 About Me
-Hi, I'm Front-End Developer but also I like Backend, I'm from Ecuador
+Hi, I'm Software Engineer hoping to become an architect, I'm from Ecuador
 ## 🛠 Technical Skills
 - HTML, JS, CSS
 - React.js, Material-UI, Bootstrap, Redux
 - SASS
-- Django
+- Django, ASP .NET Core, Express
+- Power Automate
+- SQL Server, MongoDB
 ### 🌱 Learning
 - English hehe
